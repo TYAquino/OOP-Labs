@@ -1,0 +1,29 @@
+Enter client name: Anita Howes
+Enter address of property: 19 Condo Circle
+Enter purchase price: 315000
+Enter down payment percentage (minimum  5.000): 10
+Down payment amount is $31500
+Mortgage insurance price is $8788
+Total mortgage amount is $292288
+Enter mortgage term (1, 2, 3, 5, 10): 1
+Enter mortgage Amortization Period (5, 10, 15, 20, 25): 20
+Interest rate for the term will be 5.95%
+Monthly payment amount is: $2073
+Would you like to see the amortization schedule? (Y/N): y
+                                Monthly Amortization Schedule
+
+   Month      Opening Bal          Payment        Principal         Interest      Closing Bal
+       1        292288.50          2073.45           641.83          1431.62        291646.67
+       2        291646.67          2073.45           644.98          1428.48        291001.69
+       3        291001.69          2073.45           648.14          1425.32        290353.56
+       4        290353.56          2073.45           651.31          1422.14        289702.25
+       5        289702.25          2073.45           654.50          1418.95        289047.75
+       6        289047.75          2073.45           657.71          1415.75        288390.04
+       7        288390.04          2073.45           660.93          1412.52        287729.11
+       8        287729.11          2073.45           664.16          1409.29        287064.95
+       9        287064.95          2073.45           667.42          1406.03        286397.53
+      10        286397.53          2073.45           670.69          1402.77        285726.84
+      11        285726.84          2073.45           673.97          1399.48        285052.87
+      12        285052.87          2073.45           677.27          1396.18        284375.60
+===============================================================================================
+Total                                               7912.90         16968.52

@@ -1,0 +1,14 @@
+Enter client name: Plenty Childs
+Enter address of property: 200 Park View
+Enter purchase price: 999999
+Enter down payment percentage (minimum  7.500): 10
+Down payment amount is $100000
+Mortgage insurance price is $27900
+Total mortgage amount is $927899
+Enter mortgage term (1, 2, 3, 5, 10): 3
+Enter mortgage Amortization Period (5, 10, 15, 20, 25): 17
+Please enter a valid choice
+Enter mortgage Amortization period (5, 10, 15, 20, 25): 15
+Interest rate for the term will be 5.60%
+Monthly payment amount is: $7599
+Would you like to see the amortization schedule? (Y/N): N

@@ -1,0 +1,16 @@
+Enter client name: Min Downey
+Enter address of property: 1904 Duplex Drive
+Enter purchase price: 500500
+Enter down payment percentage (minimum  5.005): 5
+Please enter a value between the minimum and 100
+Enter down payment percentage (minimum  5.005): 101.5
+Please enter a value between the minimum and 100
+Enter down payment percentage (minimum  5.005): 5.005
+Down payment amount is $25050
+Mortgage insurance price is $19018
+Total mortgage amount is $494468
+Enter mortgage term (1, 2, 3, 5, 10): 10
+Enter mortgage Amortization Period (5, 10, 15, 20, 25): 25
+Interest rate for the term will be 6.00%
+Monthly payment amount is: $3164
+Would you like to see the amortization schedule? (Y/N): n
